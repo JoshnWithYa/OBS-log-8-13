@@ -1,0 +1,1008 @@
+14:49:40.268: CPU Name: AMD Ryzen 9 3900X 12-Core Processor            
+14:49:40.268: CPU Speed: 3793MHz
+14:49:40.268: Physical Cores: 6, Logical Cores: 12
+14:49:40.268: Physical Memory: 32675MB Total, 21059MB Free
+14:49:40.268: Windows Version: 10.0 Build 19045 (release: 22H2; revision: 4651; 64-bit)
+14:49:40.268: Running as administrator: true
+14:49:40.268: Windows 10/11 Gaming Features:
+14:49:40.268: 	Game DVR: On
+14:49:40.268: 	Game Mode: Probably On (no reg key set)
+14:49:40.271: Sec. Software Status:
+14:49:40.272: 	Microsoft Defender Antivirus: enabled (AV)
+14:49:40.272: 	Windows Firewall: enabled (FW)
+14:49:40.273: Current Date/Time: 2024-08-13, 14:49:40
+14:49:40.273: Browser Hardware Acceleration: true
+14:49:40.273: Hide OBS windows from screen capture: false
+14:49:40.273: Qt Version: 6.6.3 (runtime), 6.6.3 (compiled)
+14:49:40.273: Portable mode: false
+14:49:40.725: OBS 30.2.2 (64-bit, windows)
+14:49:40.725: ---------------------------------
+14:49:40.806: ---------------------------------
+14:49:40.806: audio settings reset:
+14:49:40.806: 	samples per sec: 48000
+14:49:40.806: 	speakers:        2
+14:49:40.806: 	max buffering:   960 milliseconds
+14:49:40.806: 	buffering type:  dynamically increasing
+14:49:40.808: ---------------------------------
+14:49:40.808: Initializing D3D11...
+14:49:40.808: Available Video Adapters: 
+14:49:40.810: 	Adapter 0: NVIDIA GeForce RTX 3050
+14:49:40.810: 	  Dedicated VRAM: 8448376832 (7.9 GiB)
+14:49:40.810: 	  Shared VRAM:    17131382784 (16.0 GiB)
+14:49:40.810: 	  PCI ID:         10de:2507
+14:49:40.810: 	  HAGS Status:    Disabled (Default: No, Driver status: Supported)
+14:49:40.810: 	  Driver Version: 31.0.15.4665
+14:49:40.811: 	  output 0:
+14:49:40.811: 	    name=VG248
+14:49:40.811: 	    pos={0, 0}
+14:49:40.811: 	    size={1920, 1080}
+14:49:40.811: 	    attached=true
+14:49:40.811: 	    refresh=144
+14:49:40.811: 	    bits_per_color=8
+14:49:40.811: 	    space=RGB_FULL_G22_NONE_P709
+14:49:40.811: 	    primaries=[r=(0.650391, 0.329102), g=(0.331055, 0.622070), b=(0.151367, 0.052734), wp=(0.313477, 0.329102)]
+14:49:40.811: 	    relative_gamut_area=[709=1.046195, P3=0.771224, 2020=0.553302]
+14:49:40.811: 	    sdr_white_nits=80
+14:49:40.811: 	    nit_range=[min=0.500000, max=270.000000, max_full_frame=270.000000]
+14:49:40.811: 	    dpi=96 (100%)
+14:49:40.811: 	    id=\\?\DISPLAY#ACI24A4#5&14b81f84&0&UID37123#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+14:49:40.811: 	    alt_id=\\.\DISPLAY1
+14:49:40.812: 	  output 1:
+14:49:40.812: 	    name=VG248
+14:49:40.812: 	    pos={1920, -407}
+14:49:40.812: 	    size={1080, 1920}
+14:49:40.812: 	    attached=true
+14:49:40.812: 	    refresh=144
+14:49:40.812: 	    bits_per_color=8
+14:49:40.812: 	    space=RGB_FULL_G22_NONE_P709
+14:49:40.812: 	    primaries=[r=(0.650391, 0.329102), g=(0.331055, 0.622070), b=(0.151367, 0.052734), wp=(0.313477, 0.329102)]
+14:49:40.812: 	    relative_gamut_area=[709=1.046195, P3=0.771224, 2020=0.553302]
+14:49:40.812: 	    sdr_white_nits=80
+14:49:40.812: 	    nit_range=[min=0.500000, max=270.000000, max_full_frame=270.000000]
+14:49:40.812: 	    dpi=96 (100%)
+14:49:40.812: 	    id=\\?\DISPLAY#ACI24A4#5&14b81f84&0&UID37121#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+14:49:40.812: 	    alt_id=\\.\DISPLAY2
+14:49:40.812: Loading up D3D11 on adapter NVIDIA GeForce RTX 3050 (0)
+14:49:40.919: D3D11 loaded successfully, feature level used: b000
+14:49:40.919: DXGI increase maximum frame latency success
+14:49:40.919: D3D11 GPU priority setup success
+14:49:41.771: ---------------------------------
+14:49:41.771: video settings reset:
+14:49:41.771: 	base resolution:   1920x1080
+14:49:41.771: 	output resolution: 1920x1080
+14:49:41.771: 	downscale filter:  Bicubic
+14:49:41.771: 	fps:               60/1
+14:49:41.771: 	format:            NV12
+14:49:41.771: 	YUV mode:          Rec. 709/Partial
+14:49:41.771: NV12 texture support enabled
+14:49:41.771: P010 texture support not available
+14:49:41.773: Audio monitoring device:
+14:49:41.773: 	name: Default
+14:49:41.773: 	id: default
+14:49:41.773: ---------------------------------
+14:49:41.805: Skipping module '../../obs-plugins/64bit/advanced-scene-switcher-lib.dll', not an OBS plugin
+14:49:41.834: [adv-ss] version: 1.26.4
+14:49:41.834: [adv-ss] version: e3ff6f34fcce1a42d6eb65effdb7eb279776fb5e
+14:49:41.834: [adv-ss] attempting to load "C:/Program Files/obs-studio/obs-plugins/64bit/adv-ss-plugins/advanced-scene-switcher-base.dll"
+14:49:41.867: [adv-ss] successfully loaded "C:/Program Files/obs-studio/obs-plugins/64bit/adv-ss-plugins/advanced-scene-switcher-base.dll"
+14:49:41.867: [adv-ss] attempting to load "C:/Program Files/obs-studio/obs-plugins/64bit/adv-ss-plugins/advanced-scene-switcher-midi.dll"
+14:49:41.917: [adv-ss] successfully loaded "C:/Program Files/obs-studio/obs-plugins/64bit/adv-ss-plugins/advanced-scene-switcher-midi.dll"
+14:49:41.918: [adv-ss] attempting to load "C:/Program Files/obs-studio/obs-plugins/64bit/adv-ss-plugins/advanced-scene-switcher-opencv.dll"
+14:49:42.102: [adv-ss] successfully loaded "C:/Program Files/obs-studio/obs-plugins/64bit/adv-ss-plugins/advanced-scene-switcher-opencv.dll"
+14:49:42.102: [adv-ss] attempting to load "C:/Program Files/obs-studio/obs-plugins/64bit/adv-ss-plugins/advanced-scene-switcher-openvr.dll"
+14:49:42.122: [adv-ss] successfully loaded "C:/Program Files/obs-studio/obs-plugins/64bit/adv-ss-plugins/advanced-scene-switcher-openvr.dll"
+14:49:42.122: [adv-ss] attempting to load "C:/Program Files/obs-studio/obs-plugins/64bit/adv-ss-plugins/advanced-scene-switcher-twitch.dll"
+14:49:42.206: [adv-ss] successfully loaded "C:/Program Files/obs-studio/obs-plugins/64bit/adv-ss-plugins/advanced-scene-switcher-twitch.dll"
+14:49:42.206: [adv-ss] attempting to load "C:/Program Files/obs-studio/obs-plugins/64bit/adv-ss-plugins/libcrypto-1_1-x64.dll"
+14:49:42.206: [adv-ss] successfully loaded "C:/Program Files/obs-studio/obs-plugins/64bit/adv-ss-plugins/libcrypto-1_1-x64.dll"
+14:49:42.206: [adv-ss] attempting to load "C:/Program Files/obs-studio/obs-plugins/64bit/adv-ss-plugins/libssl-1_1-x64.dll"
+14:49:42.206: [adv-ss] successfully loaded "C:/Program Files/obs-studio/obs-plugins/64bit/adv-ss-plugins/libssl-1_1-x64.dll"
+14:49:42.206: [adv-ss] attempting to load "C:/Program Files/obs-studio/obs-plugins/64bit/adv-ss-plugins/opencv_calib3d4100.dll"
+14:49:42.206: [adv-ss] successfully loaded "C:/Program Files/obs-studio/obs-plugins/64bit/adv-ss-plugins/opencv_calib3d4100.dll"
+14:49:42.206: [adv-ss] attempting to load "C:/Program Files/obs-studio/obs-plugins/64bit/adv-ss-plugins/opencv_core4100.dll"
+14:49:42.206: [adv-ss] successfully loaded "C:/Program Files/obs-studio/obs-plugins/64bit/adv-ss-plugins/opencv_core4100.dll"
+14:49:42.206: [adv-ss] attempting to load "C:/Program Files/obs-studio/obs-plugins/64bit/adv-ss-plugins/opencv_features2d4100.dll"
+14:49:42.206: [adv-ss] successfully loaded "C:/Program Files/obs-studio/obs-plugins/64bit/adv-ss-plugins/opencv_features2d4100.dll"
+14:49:42.206: [adv-ss] attempting to load "C:/Program Files/obs-studio/obs-plugins/64bit/adv-ss-plugins/opencv_flann4100.dll"
+14:49:42.206: [adv-ss] successfully loaded "C:/Program Files/obs-studio/obs-plugins/64bit/adv-ss-plugins/opencv_flann4100.dll"
+14:49:42.206: [adv-ss] attempting to load "C:/Program Files/obs-studio/obs-plugins/64bit/adv-ss-plugins/opencv_imgproc4100.dll"
+14:49:42.206: [adv-ss] successfully loaded "C:/Program Files/obs-studio/obs-plugins/64bit/adv-ss-plugins/opencv_imgproc4100.dll"
+14:49:42.206: [adv-ss] attempting to load "C:/Program Files/obs-studio/obs-plugins/64bit/adv-ss-plugins/opencv_objdetect4100.dll"
+14:49:42.206: [adv-ss] successfully loaded "C:/Program Files/obs-studio/obs-plugins/64bit/adv-ss-plugins/opencv_objdetect4100.dll"
+14:49:42.206: [adv-ss] attempting to load "C:/Program Files/obs-studio/obs-plugins/64bit/adv-ss-plugins/openvr_api.dll"
+14:49:42.206: [adv-ss] successfully loaded "C:/Program Files/obs-studio/obs-plugins/64bit/adv-ss-plugins/openvr_api.dll"
+14:49:42.232: No AJA devices found, skipping loading AJA UI plugin
+14:49:42.232: Failed to initialize module 'aja-output-ui.dll'
+14:49:42.239: No AJA devices found, skipping loading AJA plugin
+14:49:42.239: Failed to initialize module 'aja.dll'
+14:49:42.452: Skipping module '../../obs-plugins/64bit/chrome_elf.dll', not an OBS plugin
+14:49:42.459: [CoreAudio encoder]: CoreAudio AAC encoder not installed on the system or couldn't be loaded
+14:49:42.481: Failed to load 'en-US' text for module: 'decklink-captions.dll'
+14:49:42.505: Failed to load 'en-US' text for module: 'decklink-output-ui.dll'
+14:49:42.532: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+14:49:42.532: Failed to initialize module 'decklink.dll'
+14:49:42.682: Skipping module '../../obs-plugins/64bit/libcef.dll', not an OBS plugin
+14:49:42.716: Skipping module '../../obs-plugins/64bit/libEGL.dll', not an OBS plugin
+14:49:42.756: Skipping module '../../obs-plugins/64bit/libGLESv2.dll', not an OBS plugin
+14:49:42.815: [obs-browser]: Version 2.23.5
+14:49:42.815: [obs-browser]: CEF Version 103.0.5060.134 (runtime), 103.0.0-5060-shared-textures.2594+gc69ad37+chromium-103.0.5060.134 (compiled)
+14:49:42.886: NVENC supported
+14:49:43.067: [NVENC] AV1 is not supported
+14:49:43.094: [noise suppress]: NVIDIA denoiser disabled, redistributable not found or could not be loaded.
+14:49:43.094: [NVIDIA VIDEO FX]: NVIDIA VIDEO FX version: 0.7.2.0
+14:49:43.136: [NVIDIA VIDEO FX]: enabled, redistributable found
+14:49:43.386: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.5.2 | RPC Version: 1)
+14:49:43.386: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.6.3 | Qt version (run-time): 6.6.3
+14:49:43.386: [obs-websocket] [obs_module_load] Linked ASIO Version: 103002
+14:49:43.397: [obs-websocket] [obs_module_load] Module loaded.
+14:49:43.498: [vlc-video]: VLC 3.0.18 Vetinari found, VLC video source enabled
+14:49:43.650: <StreamDeck> Plugin version 5.5.3.1
+14:49:43.650: ---------------------------------
+14:49:43.650:   Loaded Modules:
+14:49:43.650:     StreamDeckPlugin.dll
+14:49:43.650:     win-wasapi.dll
+14:49:43.650:     win-dshow.dll
+14:49:43.650:     win-capture.dll
+14:49:43.650:     vlc-video.dll
+14:49:43.650:     text-freetype2.dll
+14:49:43.650:     rtmp-services.dll
+14:49:43.650:     obs-x264.dll
+14:49:43.650:     obs-websocket.dll
+14:49:43.650:     obs-webrtc.dll
+14:49:43.650:     obs-vst.dll
+14:49:43.650:     obs-transitions.dll
+14:49:43.650:     obs-text.dll
+14:49:43.650:     obs-qsv11.dll
+14:49:43.650:     obs-outputs.dll
+14:49:43.650:     obs-filters.dll
+14:49:43.650:     obs-ffmpeg.dll
+14:49:43.650:     obs-browser.dll
+14:49:43.650:     logi_obs_plugin_x64.dll
+14:49:43.650:     image-source.dll
+14:49:43.650:     frontend-tools.dll
+14:49:43.650:     decklink-output-ui.dll
+14:49:43.650:     decklink-captions.dll
+14:49:43.650:     coreaudio-encoder.dll
+14:49:43.650:     advanced-scene-switcher.dll
+14:49:43.650: ---------------------------------
+14:49:43.650: <StreamDeck> [Server] Listening on '127.0.0.1:28186'.
+14:49:43.654: ---------------------------------
+14:49:43.654: Available Encoders:
+14:49:43.654:   Video Encoders:
+14:49:43.654: 	- ffmpeg_svt_av1 (SVT-AV1)
+14:49:43.654: 	- ffmpeg_aom_av1 (AOM AV1)
+14:49:43.654: 	- jim_nvenc (NVIDIA NVENC H.264)
+14:49:43.654: 	- jim_hevc_nvenc (NVIDIA NVENC HEVC)
+14:49:43.654: 	- obs_x264 (x264)
+14:49:43.654:   Audio Encoders:
+14:49:43.654: 	- ffmpeg_aac (FFmpeg AAC)
+14:49:43.654: 	- ffmpeg_opus (FFmpeg Opus)
+14:49:43.654: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+14:49:43.654: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+14:49:43.654: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+14:49:43.654: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+14:49:43.654: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+14:49:43.654: ==== Startup complete ===============================================
+14:49:43.817: All scene data cleared
+14:49:43.817: ------------------------------------------------
+14:49:43.848: [win-wasapi: '1. SM7B'] update settings:
+14:49:43.848: 	device id: {0.0.1.00000000}.{f0f4352d-a8e3-4ba0-b2b2-290b29df0e71}
+14:49:43.848: 	use device timing: 0
+14:49:43.848: [win-wasapi: '3. GAMING PC'] update settings:
+14:49:43.848: 	device id: {0.0.1.00000000}.{ecb31ca4-df1f-4896-abe6-e30890ff2ed0}
+14:49:43.848: 	use device timing: 0
+14:49:43.849: [win-wasapi: '2. DISCORD'] update settings:
+14:49:43.849: 	device id: {0.0.0.00000000}.{69675df4-90fd-422d-a861-f5b289b2a8dd}
+14:49:43.849: 	use device timing: 1
+14:49:43.850: [win-wasapi: '4. STREAM PC'] update settings:
+14:49:43.850: 	device id: {0.0.0.00000000}.{ca76288d-7045-4b9d-bd43-115f8973c21a}
+14:49:43.850: 	use device timing: 1
+14:49:43.851: [win-wasapi: '5. MUSIC'] update settings:
+14:49:43.851: 	device id: {0.0.0.00000000}.{fee24594-da07-407b-8228-a22187d424c6}
+14:49:43.851: 	use device timing: 1
+14:49:43.852: [win-wasapi: 'H60X AUDIO'] update settings:
+14:49:43.852: 	device id: {0.0.1.00000000}.{b5f1beb9-6607-4256-a5f2-7db9be4994cd}
+14:49:43.852: 	use device timing: 0
+14:49:43.879: Switched to scene 'Scene'
+14:49:43.879: WASAPI: Device 'System (3- TC-Helicon GoXLR)' [48000 Hz] initialized (source: 4. STREAM PC)
+14:49:43.879: [adv-ss] trying to reconnect to  in 10 seconds.
+14:49:43.881: ------------------------------------------------
+14:49:43.881: Loaded scenes:
+14:49:43.881: - scene 'Scene':
+14:49:43.881:     - source: 'HD60X' (dshow_input)
+14:49:43.881:     - source: 'MK2' (dshow_input)
+14:49:43.881:     - source: 'AUDIO' (group)
+14:49:43.881:         - source: '5. MUSIC' (wasapi_output_capture)
+14:49:43.881:         - source: '4. STREAM PC' (wasapi_output_capture)
+14:49:43.881:         - source: '3. GAMING PC' (wasapi_input_capture)
+14:49:43.881:         - source: '2. DISCORD' (wasapi_output_capture)
+14:49:43.881:         - source: '1. SM7B' (wasapi_input_capture)
+14:49:43.881:         - source: 'H60X AUDIO' (wasapi_input_capture)
+14:49:43.881:             - monitoring: monitor only
+14:49:43.881: ------------------------------------------------
+14:49:43.882: [adv-ss] started
+14:49:43.884: WASAPI: Device 'Broadcast Stream Mix (3- TC-Helicon GoXLR)' [48000 Hz] initialized (source: 3. GAMING PC)
+14:49:43.889: WASAPI: Device 'Chat Mic (3- TC-Helicon GoXLR)' [48000 Hz] initialized (source: 1. SM7B)
+14:49:43.892: WASAPI: Device 'Music (3- TC-Helicon GoXLR)' [48000 Hz] initialized (source: 5. MUSIC)
+14:49:43.897: WASAPI: Device 'Chat (3- TC-Helicon GoXLR)' [48000 Hz] initialized (source: 2. DISCORD)
+14:49:43.900: WASAPI: Device 'Game Capture HD60 X (2- Game Capture HD60 X)' [48000 Hz] initialized (source: H60X AUDIO)
+14:49:43.923: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: 3. GAMING PC)
+14:49:43.923: 
+14:49:44.300: ---------------------------------
+14:49:44.300: [DShow Device: 'MK2'] settings updated: 
+14:49:44.300: 	video device: Game Capture 4K60 Pro MK.2
+14:49:44.300: 	video path: \\?\pci#ven_12ab&dev_0710&subsys_000e1cfa&rev_00#6&17df8332&0&0010000a#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\{6f814be9-9af6-43cf-9249-c03401000226}
+14:49:44.300: 	resolution: 2560x1440
+14:49:44.300: 	flip: 0
+14:49:44.300: 	fps: 144.00 (interval: 69444)
+14:49:44.300: 	format: NV12
+14:49:44.300: 	buffering: disabled
+14:49:44.300: 	hardware decode: disabled
+14:49:44.313: ---------------------------------
+14:49:44.313: [DShow Device: 'HD60X'] settings updated: 
+14:49:44.313: 	video device: Game Capture HD60 X
+14:49:44.313: 	video path: \\?\usb#vid_0fd9&pid_0082&mi_00#a&2fcd4d0&0&0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global
+14:49:44.313: 	resolution: 1920x1080
+14:49:44.313: 	flip: 0
+14:49:44.313: 	fps: 60.00 (interval: 166666)
+14:49:44.313: 	format: NV12
+14:49:44.313: 	buffering: disabled
+14:49:44.313: 	hardware decode: disabled
+14:49:44.319: 	using video device audio: no
+14:49:44.319: 	separate audio filter
+14:49:44.319: 	sample rate: 48000
+14:49:44.319: 	channels: 2
+14:49:44.319: 	audio type: Capture
+14:49:44.322: DShow: Elgato GC4K60ProMK2 tonemapper enable=1
+14:49:44.337: 	using video device audio: no
+14:49:44.337: 	separate audio filter
+14:49:44.337: 	sample rate: 44100
+14:49:44.337: 	channels: 2
+14:49:44.337: 	audio type: Capture
+14:49:44.450: DShow: Elgato UVC device (PID = 0x0082) tonemapper enable=1
+14:49:48.342: Number of remaining views: 1
+14:49:48.342: ---------------------------------
+14:49:48.342: video settings reset:
+14:49:48.342: 	base resolution:   1920x1080
+14:49:48.342: 	output resolution: 1664x936
+14:49:48.342: 	downscale filter:  Bicubic
+14:49:48.342: 	fps:               60/1
+14:49:48.342: 	format:            NV12
+14:49:48.342: 	YUV mode:          Rec. 709/Partial
+14:49:48.342: NV12 texture support enabled
+14:49:48.342: P010 texture support not available
+14:49:48.354: Audio monitoring device:
+14:49:48.354: 	name: Default
+14:49:48.354: 	id: default
+14:49:49.487: Switched to profile '2024 Streaming Scenes' (2024_Streaming_Scenes)
+14:49:49.487: ------------------------------------------------
+14:49:49.541: [adv-ss] stopped
+14:49:49.541: [adv-ss] trying to reconnect to  in 10 seconds.
+14:49:49.611: [adv-ss] trying to reconnect to  in 10 seconds.
+14:49:49.611: [adv-ss] reset transition behaviour to adjust active transition type
+14:49:49.613: [adv-ss] started
+14:49:49.654: All scene data cleared
+14:49:49.654: ------------------------------------------------
+14:49:49.662: WASAPI: Device 'Chat Mic (3- TC-Helicon GoXLR)' Terminated
+14:49:49.664: WASAPI: Device 'Broadcast Stream Mix (3- TC-Helicon GoXLR)' Terminated
+14:49:49.667: WASAPI: Device 'Chat (3- TC-Helicon GoXLR)' Terminated
+14:49:49.668: WASAPI: Device 'System (3- TC-Helicon GoXLR)' Terminated
+14:49:49.670: WASAPI: Device 'Music (3- TC-Helicon GoXLR)' Terminated
+14:49:49.672: WASAPI: Device 'Game Capture HD60 X (2- Game Capture HD60 X)' Terminated
+14:49:50.088: [obs-scripting]: Loaded lua script: Champion_Premium_Blue.lua
+14:49:50.089: [win-wasapi: '1. SM7B'] update settings:
+14:49:50.089: 	device id: {0.0.1.00000000}.{f0f4352d-a8e3-4ba0-b2b2-290b29df0e71}
+14:49:50.089: 	use device timing: 0
+14:49:50.089: [noise suppress: 'Noise Suppression'] NVAFX redist is not installed.
+14:49:50.091: [win-wasapi: '2. Gaming PC'] update settings:
+14:49:50.091: 	device id: {0.0.1.00000000}.{ecb31ca4-df1f-4896-abe6-e30890ff2ed0}
+14:49:50.091: 	use device timing: 0
+14:49:50.091: [win-wasapi: '3. Discord'] update settings:
+14:49:50.091: 	device id: {0.0.0.00000000}.{69675df4-90fd-422d-a861-f5b289b2a8dd}
+14:49:50.091: 	use device timing: 1
+14:49:50.092: [win-wasapi: '4. Stream PC'] update settings:
+14:49:50.092: 	device id: {0.0.0.00000000}.{ca76288d-7045-4b9d-bd43-115f8973c21a}
+14:49:50.092: 	use device timing: 1
+14:49:50.092: [win-wasapi: '5. Music'] update settings:
+14:49:50.092: 	device id: {0.0.0.00000000}.{fee24594-da07-407b-8228-a22187d424c6}
+14:49:50.092: 	use device timing: 1
+14:49:50.094: [Media Source 'Be_Right_Back_Blue.mp4']: settings:
+14:49:50.094: 	input:                   E:/Twitch Overlays - All Overlays here/Champion_Overlays//Scenes/Be_Right_Back_Blue.mp4
+14:49:50.094: 	input_format:            (null)
+14:49:50.094: 	speed:                   100
+14:49:50.094: 	is_looping:              yes
+14:49:50.094: 	is_linear_alpha:         no
+14:49:50.094: 	is_hw_decoding:          no
+14:49:50.094: 	is_clear_on_media_end:   yes
+14:49:50.094: 	restart_on_activate:     yes
+14:49:50.094: 	close_when_inactive:     yes
+14:49:50.094: 	full_decode:             no
+14:49:50.094: 	ffmpeg_options:          
+14:49:50.110: WASAPI: Device 'System (3- TC-Helicon GoXLR)' [48000 Hz] initialized (source: 4. Stream PC)
+14:49:50.110: WASAPI: Device 'Music (3- TC-Helicon GoXLR)' [48000 Hz] initialized (source: 5. Music)
+14:49:50.115: WASAPI: Device 'Chat Mic (3- TC-Helicon GoXLR)' [48000 Hz] initialized (source: 1. SM7B)
+14:49:50.116: WASAPI: Device 'Broadcast Stream Mix (3- TC-Helicon GoXLR)' [48000 Hz] initialized (source: 2. Gaming PC)
+14:49:50.118: WASAPI: Device 'Chat (3- TC-Helicon GoXLR)' [48000 Hz] initialized (source: 3. Discord)
+14:49:50.193: [Media Source 'Commericalss']: settings:
+14:49:50.193: 	input:                   O:/Saved Videos/35 Minutes of 2000s Commercials Nostalgia.mp4
+14:49:50.193: 	input_format:            (null)
+14:49:50.193: 	speed:                   100
+14:49:50.193: 	is_looping:              yes
+14:49:50.193: 	is_linear_alpha:         no
+14:49:50.193: 	is_hw_decoding:          no
+14:49:50.193: 	is_clear_on_media_end:   yes
+14:49:50.193: 	restart_on_activate:     no
+14:49:50.193: 	close_when_inactive:     no
+14:49:50.193: 	full_decode:             no
+14:49:50.193: 	ffmpeg_options:          
+14:49:50.200: [Media Source 'Ending_Blue.mp4']: settings:
+14:49:50.200: 	input:                   E:/Twitch Overlays - All Overlays here/Champion_Overlays//Scenes/Ending_Blue.mp4
+14:49:50.200: 	input_format:            (null)
+14:49:50.200: 	speed:                   100
+14:49:50.200: 	is_looping:              yes
+14:49:50.200: 	is_linear_alpha:         no
+14:49:50.200: 	is_hw_decoding:          no
+14:49:50.200: 	is_clear_on_media_end:   yes
+14:49:50.200: 	restart_on_activate:     yes
+14:49:50.200: 	close_when_inactive:     yes
+14:49:50.200: 	full_decode:             no
+14:49:50.200: 	ffmpeg_options:          
+14:49:50.269: [win-wasapi: 'H60X AUDIO'] update settings:
+14:49:50.269: 	device id: {0.0.1.00000000}.{b5f1beb9-6607-4256-a5f2-7db9be4994cd}
+14:49:50.269: 	use device timing: 0
+14:49:50.284: WASAPI: Device 'Game Capture HD60 X (2- Game Capture HD60 X)' [48000 Hz] initialized (source: H60X AUDIO)
+14:49:50.370: [Media Source 'Intermission scene']: settings:
+14:49:50.370: 	input:                   E:/Twitch Overlays - All Overlays here/Champion_Overlays/Scenes/Intermission_Blue.webm
+14:49:50.370: 	input_format:            (null)
+14:49:50.370: 	speed:                   100
+14:49:50.370: 	is_looping:              yes
+14:49:50.370: 	is_linear_alpha:         no
+14:49:50.370: 	is_hw_decoding:          no
+14:49:50.370: 	is_clear_on_media_end:   yes
+14:49:50.370: 	restart_on_activate:     yes
+14:49:50.370: 	close_when_inactive:     no
+14:49:50.370: 	full_decode:             no
+14:49:50.370: 	ffmpeg_options:          
+14:49:50.372: [Media Source 'Intro Video!']: settings:
+14:49:50.372: 	input:                   O:/Final Video Exports/Stream Related Videos/2023 JoshnWithYa Stream Intro Video.mp4
+14:49:50.372: 	input_format:            (null)
+14:49:50.372: 	speed:                   100
+14:49:50.372: 	is_looping:              no
+14:49:50.372: 	is_linear_alpha:         no
+14:49:50.372: 	is_hw_decoding:          no
+14:49:50.372: 	is_clear_on_media_end:   yes
+14:49:50.372: 	restart_on_activate:     yes
+14:49:50.372: 	close_when_inactive:     no
+14:49:50.372: 	full_decode:             no
+14:49:50.372: 	ffmpeg_options:          
+14:49:50.378: [Media Source 'Just_Chatting_Blue.webm']: settings:
+14:49:50.378: 	input:                   E:/Twitch Overlays - All Overlays here/Champion_Overlays//Scenes/Just_Chatting_Blue.webm
+14:49:50.378: 	input_format:            (null)
+14:49:50.378: 	speed:                   100
+14:49:50.378: 	is_looping:              yes
+14:49:50.378: 	is_linear_alpha:         no
+14:49:50.378: 	is_hw_decoding:          no
+14:49:50.378: 	is_clear_on_media_end:   yes
+14:49:50.378: 	restart_on_activate:     yes
+14:49:50.378: 	close_when_inactive:     yes
+14:49:50.378: 	full_decode:             no
+14:49:50.378: 	ffmpeg_options:          
+14:49:50.457: ---------------------------------
+14:49:50.457: [DShow Device: 'Facecam'] settings updated: 
+14:49:50.457: 	video device: Elgato Facecam
+14:49:50.457: 	video path: \\?\usb#vid_0fd9&pid_0078&mi_00#7&4d0eda3&0&0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global
+14:49:50.457: 	resolution: 1920x1080
+14:49:50.457: 	flip: 0
+14:49:50.457: 	fps: 60.00 (interval: 166666)
+14:49:50.457: 	format: UYVY
+14:49:50.457: 	buffering: disabled
+14:49:50.457: 	hardware decode: disabled
+14:49:50.571: DShow: Elgato UVC device (PID = 0x0082) tonemapper enable=1
+14:49:50.593: ---------------------------------
+14:49:50.593: [DShow Device: 'HD60X'] settings updated: 
+14:49:50.593: 	video device: Game Capture HD60 X
+14:49:50.593: 	video path: \\?\usb#vid_0fd9&pid_0082&mi_00#a&2fcd4d0&0&0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global
+14:49:50.593: 	resolution: 1920x1080
+14:49:50.593: 	flip: 0
+14:49:50.593: 	fps: 60.00 (interval: 166666)
+14:49:50.593: 	format: NV12
+14:49:50.593: 	buffering: disabled
+14:49:50.593: 	hardware decode: disabled
+14:49:50.614: 	using video device audio: no
+14:49:50.614: 	separate audio filter
+14:49:50.614: 	sample rate: 44100
+14:49:50.614: 	channels: 2
+14:49:50.614: 	audio type: Capture
+14:49:50.622: warning: EOI missing, emulating
+14:49:50.622: warning: deprecated pixel format used, make sure you did set range correctly
+14:49:50.625: DShow: Elgato UVC device (PID = 0x0082) tonemapper enable=1
+14:49:50.626: warning: EOI missing, emulating
+14:49:50.626: warning: deprecated pixel format used, make sure you did set range correctly
+14:49:50.628: warning: EOI missing, emulating
+14:49:50.628: ---------------------------------
+14:49:50.628: [DShow Device: 'MK2'] settings updated: 
+14:49:50.628: 	video device: Game Capture 4K60 Pro MK.2
+14:49:50.628: 	video path: \\?\pci#ven_12ab&dev_0710&subsys_000e1cfa&rev_00#6&17df8332&0&0010000a#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\{6f814be9-9af6-43cf-9249-c03401000226}
+14:49:50.628: 	resolution: 2560x1440
+14:49:50.628: 	flip: 0
+14:49:50.628: 	fps: 144.00 (interval: 69444)
+14:49:50.628: 	format: NV12
+14:49:50.628: 	buffering: disabled
+14:49:50.628: 	hardware decode: disabled
+14:49:50.628: warning: deprecated pixel format used, make sure you did set range correctly
+14:49:50.630: warning: EOI missing, emulating
+14:49:50.630: warning: deprecated pixel format used, make sure you did set range correctly
+14:49:50.632: [Media Source 'Starting_Blue.mp4']: settings:
+14:49:50.632: 	input:                   E:/Twitch Overlays - All Overlays here/Champion_Overlays//Scenes/Starting_Blue.mp4
+14:49:50.632: 	input_format:            (null)
+14:49:50.632: 	speed:                   100
+14:49:50.632: 	is_looping:              yes
+14:49:50.632: 	is_linear_alpha:         no
+14:49:50.632: 	is_hw_decoding:          no
+14:49:50.632: 	is_clear_on_media_end:   yes
+14:49:50.632: 	restart_on_activate:     yes
+14:49:50.632: 	close_when_inactive:     yes
+14:49:50.632: 	full_decode:             no
+14:49:50.632: 	ffmpeg_options:          
+14:49:50.632: [Media Source 'Support_Bars_3x_Vertical.webm']: settings:
+14:49:50.632: 	input:                   E:/Twitch Overlays - All Overlays here/Champion_Overlays//Supporter Bars/Blue/Support_Bars_3x_Vertical.webm
+14:49:50.632: 	input_format:            (null)
+14:49:50.632: 	speed:                   100
+14:49:50.632: 	is_looping:              yes
+14:49:50.632: 	is_linear_alpha:         no
+14:49:50.632: 	is_hw_decoding:          no
+14:49:50.632: 	is_clear_on_media_end:   yes
+14:49:50.632: 	restart_on_activate:     yes
+14:49:50.632: 	close_when_inactive:     yes
+14:49:50.632: 	full_decode:             no
+14:49:50.632: 	ffmpeg_options:          
+14:49:50.633: [Media Source 'Timer']: settings:
+14:49:50.633: 	input:                   E:/Twitch Overlays - All Overlays here/Champion_Overlays/Scenes/Extras/Countdown_5min.webm
+14:49:50.633: 	input_format:            (null)
+14:49:50.633: 	speed:                   100
+14:49:50.633: 	is_looping:              no
+14:49:50.633: 	is_linear_alpha:         no
+14:49:50.633: 	is_hw_decoding:          no
+14:49:50.633: 	is_clear_on_media_end:   yes
+14:49:50.633: 	restart_on_activate:     yes
+14:49:50.633: 	close_when_inactive:     no
+14:49:50.633: 	full_decode:             no
+14:49:50.633: 	ffmpeg_options:          
+14:49:50.634: Source ID 'obs_shadow_filter' not found
+14:49:50.634: Failed to create source 'Shadow'!
+14:49:50.635: [Media Source 'Webcam_16-9_Blue.webm']: settings:
+14:49:50.635: 	input:                   E:/Twitch Overlays - All Overlays here/Champion_Overlays//Webcams/Webcam_16-9_Blue.webm
+14:49:50.635: 	input_format:            (null)
+14:49:50.635: 	speed:                   100
+14:49:50.635: 	is_looping:              yes
+14:49:50.635: 	is_linear_alpha:         no
+14:49:50.635: 	is_hw_decoding:          no
+14:49:50.635: 	is_clear_on_media_end:   yes
+14:49:50.635: 	restart_on_activate:     yes
+14:49:50.635: 	close_when_inactive:     yes
+14:49:50.635: 	full_decode:             no
+14:49:50.635: 	ffmpeg_options:          
+14:49:50.642: 	using video device audio: no
+14:49:50.642: 	separate audio filter
+14:49:50.642: 	sample rate: 48000
+14:49:50.642: 	channels: 2
+14:49:50.642: 	audio type: Capture
+14:49:50.678: DShow: Elgato GC4K60ProMK2 tonemapper enable=1
+14:49:50.732: Switched to scene 'IN-GAME'
+14:49:50.732: [adv-ss] stopped
+14:49:50.733: [adv-ss] trying to reconnect to  in 10 seconds.
+14:49:50.734: ------------------------------------------------
+14:49:50.734: Loaded scenes:
+14:49:50.734: - scene 'Starting':
+14:49:50.734:     - source: 'Starting Pieces' (group)
+14:49:50.734:         - source: 'Starting_Blue.mp4' (ffmpeg_source)
+14:49:50.734:         - source: 'Timer' (ffmpeg_source)
+14:49:50.734:             - filter: 'Shadow' (obs_shadow_filter)
+14:49:50.734:     - source: '4 Socials Wide' (group)
+14:49:50.734:         - source: 'Discord' (text_gdiplus_v2)
+14:49:50.734:         - source: 'Blue_discord-mono.png' (image_source)
+14:49:50.734:         - source: 'Tik Tok' (text_gdiplus_v2)
+14:49:50.734:         - source: 'Blue_tiktok-mono.png' (image_source)
+14:49:50.734:         - source: 'Twitter' (text_gdiplus_v2)
+14:49:50.734:         - source: 'Blue_twitter-mono.png' (image_source)
+14:49:50.734:         - source: 'YouTube' (text_gdiplus_v2)
+14:49:50.734:         - source: 'Blue_youtube-mono.png' (image_source)
+14:49:50.734:     - source: 'Promotional Panel' (group)
+14:49:50.734:         - source: 'SponsorBar.jpg' (image_source)
+14:49:50.734:         - source: 'NoD_Horz_Icon_White.png' (image_source)
+14:49:50.734:         - source: 'Gaming_Careers_Logo.png' (image_source)
+14:49:50.734:         - source: 'Mouse_Accuracy_Logo.png' (image_source)
+14:49:50.734:     - source: 'Audio Group' (group)
+14:49:50.734:         - source: '5. Music' (wasapi_output_capture)
+14:49:50.734:         - source: '4. Stream PC' (wasapi_output_capture)
+14:49:50.734:         - source: '3. Discord' (wasapi_output_capture)
+14:49:50.734:         - source: '2. Gaming PC' (wasapi_input_capture)
+14:49:50.734:         - source: '1. SM7B' (wasapi_input_capture)
+14:49:50.734:             - filter: 'Noise Suppression' (noise_suppress_filter_v2)
+14:49:50.734:             - filter: 'Gain' (gain_filter)
+14:49:50.734:     - source: 'Chat Group' (group)
+14:49:50.734:         - source: 'Image' (image_source)
+14:49:50.734:             - filter: 'Color Correction' (color_filter_v2)
+14:49:50.734:         - source: 'Chat ' (browser_source)
+14:49:50.734:     - source: 'Notis' (browser_source)
+14:49:50.734:     - source: 'FISH' (game_capture)
+14:49:50.734: - scene 'Intro Video':
+14:49:50.734:     - source: 'Audio Group' (group)
+14:49:50.734:         - source: '5. Music' (wasapi_output_capture)
+14:49:50.734:         - source: '4. Stream PC' (wasapi_output_capture)
+14:49:50.734:         - source: '3. Discord' (wasapi_output_capture)
+14:49:50.734:         - source: '2. Gaming PC' (wasapi_input_capture)
+14:49:50.734:         - source: '1. SM7B' (wasapi_input_capture)
+14:49:50.734:             - filter: 'Noise Suppression' (noise_suppress_filter_v2)
+14:49:50.734:             - filter: 'Gain' (gain_filter)
+14:49:50.734:     - source: 'Notis' (browser_source)
+14:49:50.734:     - source: 'Intro Video!' (ffmpeg_source)
+14:49:50.734:         - monitoring: monitor only
+14:49:50.734:     - source: 'FISH' (game_capture)
+14:49:50.734: - scene 'Just chatting':
+14:49:50.734:     - source: 'Facecam' (dshow_input)
+14:49:50.734:     - source: 'Just_Chatting_Blue.webm' (ffmpeg_source)
+14:49:50.734:     - source: 'placeholder-logo.png 3' (image_source)
+14:49:50.734:         - filter: 'Color Correction' (color_filter_v2)
+14:49:50.734:     - source: 'Promotional Panel 4' (group)
+14:49:50.734:         - source: 'SponsorBar.jpg 4' (image_source)
+14:49:50.734:         - source: 'NoD_Horz_Icon_White.png 4' (image_source)
+14:49:50.734:         - source: 'Gaming_Careers_Logo.png 4' (image_source)
+14:49:50.734:         - source: 'Mouse_Accuracy_Logo.png 4' (image_source)
+14:49:50.734:     - source: '4 Socials Wide' (group)
+14:49:50.734:         - source: 'Discord' (text_gdiplus_v2)
+14:49:50.734:         - source: 'Blue_discord-mono.png' (image_source)
+14:49:50.734:         - source: 'Tik Tok' (text_gdiplus_v2)
+14:49:50.734:         - source: 'Blue_tiktok-mono.png' (image_source)
+14:49:50.734:         - source: 'Twitter' (text_gdiplus_v2)
+14:49:50.734:         - source: 'Blue_twitter-mono.png' (image_source)
+14:49:50.734:         - source: 'YouTube' (text_gdiplus_v2)
+14:49:50.734:         - source: 'Blue_youtube-mono.png' (image_source)
+14:49:50.734:     - source: 'Chat Group' (group)
+14:49:50.734:         - source: 'Image' (image_source)
+14:49:50.734:             - filter: 'Color Correction' (color_filter_v2)
+14:49:50.734:         - source: 'Chat ' (browser_source)
+14:49:50.734:     - source: 'Audio Group' (group)
+14:49:50.734:         - source: '5. Music' (wasapi_output_capture)
+14:49:50.734:         - source: '4. Stream PC' (wasapi_output_capture)
+14:49:50.734:         - source: '3. Discord' (wasapi_output_capture)
+14:49:50.734:         - source: '2. Gaming PC' (wasapi_input_capture)
+14:49:50.734:         - source: '1. SM7B' (wasapi_input_capture)
+14:49:50.734:             - filter: 'Noise Suppression' (noise_suppress_filter_v2)
+14:49:50.734:             - filter: 'Gain' (gain_filter)
+14:49:50.734:     - source: 'Notis' (browser_source)
+14:49:50.734:     - source: 'FISH' (game_capture)
+14:49:50.734: - scene 'IN-GAME':
+14:49:50.734:     - source: 'Console' (group)
+14:49:50.734:         - source: 'H60X AUDIO' (wasapi_input_capture)
+14:49:50.734:             - monitoring: monitor only
+14:49:50.734:         - source: 'HD60X' (dshow_input)
+14:49:50.734:             - monitoring: monitor and output
+14:49:50.734:     - source: 'MK2' (dshow_input)
+14:49:50.734:     - source: 'Audio Group' (group)
+14:49:50.734:         - source: '5. Music' (wasapi_output_capture)
+14:49:50.734:         - source: '4. Stream PC' (wasapi_output_capture)
+14:49:50.734:         - source: '3. Discord' (wasapi_output_capture)
+14:49:50.734:         - source: '2. Gaming PC' (wasapi_input_capture)
+14:49:50.734:         - source: '1. SM7B' (wasapi_input_capture)
+14:49:50.734:             - filter: 'Noise Suppression' (noise_suppress_filter_v2)
+14:49:50.734:             - filter: 'Gain' (gain_filter)
+14:49:50.734:     - source: 'Webcam 16-9' (group)
+14:49:50.734:         - source: 'Facecam' (dshow_input)
+14:49:50.734:         - source: 'Webcam_16-9_Blue.webm' (ffmpeg_source)
+14:49:50.734:         - source: 'YouTube ' (text_gdiplus_v2)
+14:49:50.734:         - source: 'Blue_youtube-mono.png 5' (image_source)
+14:49:50.734:         - source: 'X' (text_gdiplus_v2)
+14:49:50.734:         - source: 'Blue_twitter-mono.png 5' (image_source)
+14:49:50.734:         - source: 'Your Name' (text_gdiplus_v2)
+14:49:50.734:     - source: 'Supporter Bar Stack' (group)
+14:49:50.734:         - source: 'Support_Bars_3x_Vertical.webm' (ffmpeg_source)
+14:49:50.734:         - source: 'Most Recent Follower' (text_gdiplus_v2)
+14:49:50.734:         - source: 'Most recent resub' (text_gdiplus_v2)
+14:49:50.734:         - source: 'most recetn bits' (text_gdiplus_v2)
+14:49:50.734:     - source: 'Notis' (browser_source)
+14:49:50.734:     - source: 'FISH' (game_capture)
+14:49:50.734: - scene 'Be Right Back':
+14:49:50.734:     - source: 'Be_Right_Back_Blue.mp4' (ffmpeg_source)
+14:49:50.734:     - source: 'Promotional Panel 2' (group)
+14:49:50.734:         - source: 'SponsorBar.jpg 2' (image_source)
+14:49:50.734:         - source: 'NoD_Horz_Icon_White.png 2' (image_source)
+14:49:50.734:         - source: 'Gaming_Careers_Logo.png 2' (image_source)
+14:49:50.735:         - source: 'Mouse_Accuracy_Logo.png 2' (image_source)
+14:49:50.735:     - source: '4 Socials Wide' (group)
+14:49:50.735:         - source: 'Discord' (text_gdiplus_v2)
+14:49:50.735:         - source: 'Blue_discord-mono.png' (image_source)
+14:49:50.735:         - source: 'Tik Tok' (text_gdiplus_v2)
+14:49:50.735:         - source: 'Blue_tiktok-mono.png' (image_source)
+14:49:50.735:         - source: 'Twitter' (text_gdiplus_v2)
+14:49:50.735:         - source: 'Blue_twitter-mono.png' (image_source)
+14:49:50.735:         - source: 'YouTube' (text_gdiplus_v2)
+14:49:50.735:         - source: 'Blue_youtube-mono.png' (image_source)
+14:49:50.735:     - source: 'Audio Group' (group)
+14:49:50.735:         - source: '5. Music' (wasapi_output_capture)
+14:49:50.735:         - source: '4. Stream PC' (wasapi_output_capture)
+14:49:50.735:         - source: '3. Discord' (wasapi_output_capture)
+14:49:50.735:         - source: '2. Gaming PC' (wasapi_input_capture)
+14:49:50.735:         - source: '1. SM7B' (wasapi_input_capture)
+14:49:50.735:             - filter: 'Noise Suppression' (noise_suppress_filter_v2)
+14:49:50.735:             - filter: 'Gain' (gain_filter)
+14:49:50.735:     - source: 'Notis' (browser_source)
+14:49:50.735:     - source: 'FISH' (game_capture)
+14:49:50.735: - scene 'Commericals':
+14:49:50.735:     - source: 'Commericalss' (ffmpeg_source)
+14:49:50.735:         - monitoring: monitor only
+14:49:50.735:     - source: 'Intermission scene' (ffmpeg_source)
+14:49:50.735:     - source: '4 Socials Wide' (group)
+14:49:50.735:         - source: 'Discord' (text_gdiplus_v2)
+14:49:50.735:         - source: 'Blue_discord-mono.png' (image_source)
+14:49:50.735:         - source: 'Tik Tok' (text_gdiplus_v2)
+14:49:50.735:         - source: 'Blue_tiktok-mono.png' (image_source)
+14:49:50.735:         - source: 'Twitter' (text_gdiplus_v2)
+14:49:50.735:         - source: 'Blue_twitter-mono.png' (image_source)
+14:49:50.735:         - source: 'YouTube' (text_gdiplus_v2)
+14:49:50.735:         - source: 'Blue_youtube-mono.png' (image_source)
+14:49:50.735:     - source: 'Audio Group' (group)
+14:49:50.735:         - source: '5. Music' (wasapi_output_capture)
+14:49:50.735:         - source: '4. Stream PC' (wasapi_output_capture)
+14:49:50.735: [adv-ss] started
+14:49:50.735:         - source: '3. Discord' (wasapi_output_capture)
+14:49:50.735:         - source: '2. Gaming PC' (wasapi_input_capture)
+14:49:50.735:         - source: '1. SM7B' (wasapi_input_capture)
+14:49:50.735:             - filter: 'Noise Suppression' (noise_suppress_filter_v2)
+14:49:50.735:             - filter: 'Gain' (gain_filter)
+14:49:50.735:     - source: 'Chat Group' (group)
+14:49:50.735:         - source: 'Image' (image_source)
+14:49:50.735:             - filter: 'Color Correction' (color_filter_v2)
+14:49:50.735:         - source: 'Chat ' (browser_source)
+14:49:50.735:     - source: 'FISH' (game_capture)
+14:49:50.735:     - source: 'Notis' (browser_source)
+14:49:50.735: - scene 'Ending':
+14:49:50.735:     - source: 'Audio Group' (group)
+14:49:50.735:         - source: '5. Music' (wasapi_output_capture)
+14:49:50.735:         - source: '4. Stream PC' (wasapi_output_capture)
+14:49:50.735:         - source: '3. Discord' (wasapi_output_capture)
+14:49:50.735:         - source: '2. Gaming PC' (wasapi_input_capture)
+14:49:50.735:         - source: '1. SM7B' (wasapi_input_capture)
+14:49:50.735:             - filter: 'Noise Suppression' (noise_suppress_filter_v2)
+14:49:50.735:             - filter: 'Gain' (gain_filter)
+14:49:50.735:     - source: 'Ending_Blue.mp4' (ffmpeg_source)
+14:49:50.735:     - source: 'placeholder-logo.png 4' (image_source)
+14:49:50.735:     - source: 'Promotional Panel 5' (group)
+14:49:50.735:         - source: 'SponsorBar.jpg 5' (image_source)
+14:49:50.735:         - source: 'NoD_Horz_Icon_White.png 5' (image_source)
+14:49:50.735:         - source: 'Gaming_Careers_Logo.png 5' (image_source)
+14:49:50.735:         - source: 'Mouse_Accuracy_Logo.png 5' (image_source)
+14:49:50.735:     - source: '4 Socials Wide' (group)
+14:49:50.735:         - source: 'Discord' (text_gdiplus_v2)
+14:49:50.735:         - source: 'Blue_discord-mono.png' (image_source)
+14:49:50.735:         - source: 'Tik Tok' (text_gdiplus_v2)
+14:49:50.735:         - source: 'Blue_tiktok-mono.png' (image_source)
+14:49:50.735:         - source: 'Twitter' (text_gdiplus_v2)
+14:49:50.735:         - source: 'Blue_twitter-mono.png' (image_source)
+14:49:50.735:         - source: 'YouTube' (text_gdiplus_v2)
+14:49:50.735:         - source: 'Blue_youtube-mono.png' (image_source)
+14:49:50.735:     - source: 'Notis' (browser_source)
+14:49:50.735:     - source: 'Chat Group' (group)
+14:49:50.735:         - source: 'Image' (image_source)
+14:49:50.735:             - filter: 'Color Correction' (color_filter_v2)
+14:49:50.735:         - source: 'Chat ' (browser_source)
+14:49:50.735:     - source: 'FISH' (game_capture)
+14:49:50.735: ------------------------------------------------
+14:49:50.773: [Media Source 'Stinger (Stinger)']: settings:
+14:49:50.773: 	input:                   E:/Twitch Overlays - All Overlays here/Champion_Overlays/Transition/Champion_Transition.webm
+14:49:50.773: 	input_format:            (null)
+14:49:50.773: 	speed:                   100
+14:49:50.773: 	is_looping:              no
+14:49:50.773: 	is_linear_alpha:         no
+14:49:50.773: 	is_hw_decoding:          yes
+14:49:50.773: 	is_clear_on_media_end:   yes
+14:49:50.773: 	restart_on_activate:     yes
+14:49:50.773: 	close_when_inactive:     no
+14:49:50.773: 	full_decode:             no
+14:49:50.773: 	ffmpeg_options:          
+14:49:50.803: Switched to scene collection '2024 Streaming' (2024_Streaming.json)
+14:49:50.803: ------------------------------------------------
+14:49:56.186: User switched to scene 'Just chatting'
+14:54:52.245: [game-capture: 'FISH'] attempting to hook process: LurkBait Twitch Fishing.exe
+14:54:52.258: [game-capture: 'FISH'] using helper (compatibility hook)
+14:54:52.262: [game-capture: 'FISH'] hook not loaded yet, retrying..
+14:54:55.262: [game-capture: 'FISH'] attempting to hook process: LurkBait Twitch Fishing.exe
+14:54:55.276: [game-capture: 'FISH'] DXGI_SWAP_CHAIN_DESC:
+14:54:55.276:     BufferDesc.Width: 512
+14:54:55.276:     BufferDesc.Height: 511
+14:54:55.276:     BufferDesc.RefreshRate.Numerator: 0
+14:54:55.276:     BufferDesc.RefreshRate.Denominator: 1
+14:54:55.276:     BufferDesc.Format: 28
+14:54:55.276:     BufferDesc.ScanlineOrdering: 0
+14:54:55.276:     BufferDesc.Scaling: 0
+14:54:55.276:     SampleDesc.Count: 1
+14:54:55.276:     SampleDesc.Quality: 0
+14:54:55.276:     BufferUsage: 48
+14:54:55.276:     BufferCount: 1
+14:54:55.276:     Windowed: 1
+14:54:55.276:     SwapEffect: 0
+14:54:55.276:     Flags: 2
+14:54:55.277: [game-capture: 'FISH'] d3d11 shared texture capture successful
+14:54:55.278: [game-capture: 'FISH'] shared texture capture successful
+14:55:55.295: User switched to scene 'Starting'
+14:55:57.111: User is ignoring service bitrate limits.
+14:55:57.115: Using server 'rtmps://ord03.contribute.live-video.net/app'
+14:55:57.116: Go live URL: https://ingest.twitch.tv/api/v3/GetClientConfiguration
+14:55:57.116: Preparing enhanced broadcasting stream for:
+14:55:57.116:     custom config:  No
+14:55:57.116:     config url:     https://ingest.twitch.tv/api/v3/GetClientConfiguration
+14:55:57.116:   settings:
+14:55:57.116:     service:               Twitch
+14:55:57.116:     max aggregate bitrate: Auto (0)
+14:55:57.116:     max video tracks:      Auto (0)
+14:55:57.116:     custom rtmp url:       Yes ('rtmps://ord03.contribute.live-video.net/app')
+14:55:57.116:     vod track:             No
+14:55:57.118: Go live POST data: {"authentication":"CENSORED","capabilities":{"cpu":{"logical_cores":12,"name":"AMD Ryzen 9 3900X 12-Core Processor            ","physical_cores":6,"speed":3793},"gaming_features":{"game_bar_enabled":null,"game_dvr_allowed":null,"game_dvr_bg_recording":null,"game_dvr_enabled":true,"game_mode_enabled":null,"hags_enabled":false},"gpu":[{"dedicated_video_memory":8448376832,"device_id":9479,"driver_version":"31.0.15.4665","model":"NVIDIA GeForce RTX 3050","shared_system_memory":17131382784,"vendor_id":4318}],"memory":{"free":19546628096,"total":34262765568},"system":{"arm":false,"armEmulation":false,"bits":64,"build":19045,"name":"Windows","release":"22H2","revision":4651,"version":"10.0"}},"client":{"name":"obs-studio","supported_codecs":["h265","h264","av1"],"version":"30.2.2"},"preferences":{"canvas_height":1080,"canvas_width":1920,"composition_gpu_index":0,"framerate":{"denominator":1,"numerator":60},"height":936,"maximum_aggregate_bitrate":null,"maximum_video_tracks":null,"vod_track_audio":false,"width":1664},"schema_version":"2024-06-04","service":"IVS"}
+14:55:57.277: Go live response data: {
+14:55:57.277:     "audio_configurations": {
+14:55:57.277:         "live": [
+14:55:57.277:             {
+14:55:57.277:                 "channels": 2,
+14:55:57.277:                 "codec": "aac",
+14:55:57.277:                 "settings": {
+14:55:57.277:                     "bitrate": 160
+14:55:57.277:                 },
+14:55:57.277:                 "track_id": 0
+14:55:57.277:             }
+14:55:57.277:         ],
+14:55:57.277:         "vod": []
+14:55:57.277:     },
+14:55:57.277:     "encoder_configurations": [
+14:55:57.277:         {
+14:55:57.277:             "bitrate_interpolation_points": [
+14:55:57.277:                 0,
+14:55:57.277:                 1000,
+14:55:57.277:                 2500,
+14:55:57.277:                 6000
+14:55:57.277:             ],
+14:55:57.277:             "framerate": {
+14:55:57.277:                 "denominator": 1,
+14:55:57.277:                 "numerator": 60
+14:55:57.277:             },
+14:55:57.277:             "gpu_scale_type": "OBS_SCALE_BICUBIC",
+14:55:57.277:             "height": 936,
+14:55:57.277:             "settings": {
+14:55:57.277:                 "bf": 3,
+14:55:57.277:                 "bitrate": 6000,
+14:55:57.277:                 "keyint_sec": 2,
+14:55:57.277:                 "lookahead": true,
+14:55:57.277:                 "preset2": "p6",
+14:55:57.277:                 "profile": "high",
+14:55:57.277:                 "psycho_aq": true,
+14:55:57.277:                 "rate_control": "CBR",
+14:55:57.277:                 "tune": "hq"
+14:55:57.277:             },
+14:55:57.277:             "type": "jim_nvenc",
+14:55:57.277:             "width": 1664
+14:55:57.277:         },
+14:55:57.277:         {
+14:55:57.277:             "bitrate_interpolation_points": [
+14:55:57.277:                 0,
+14:55:57.277:                 1000,
+14:55:57.277:                 2500,
+14:55:57.277:                 2500
+14:55:57.277:             ],
+14:55:57.277:             "framerate": {
+14:55:57.277:                 "denominator": 1,
+14:55:57.277:                 "numerator": 60
+14:55:57.277:             },
+14:55:57.277:             "gpu_scale_type": "OBS_SCALE_BILINEAR",
+14:55:57.277:             "height": 720,
+14:55:57.277:             "settings": {
+14:55:57.277:                 "bf": 3,
+14:55:57.277:                 "bitrate": 2500,
+14:55:57.277:                 "keyint_sec": 2,
+14:55:57.277:                 "lookahead": false,
+14:55:57.277:                 "preset2": "p5",
+14:55:57.277:                 "profile": "high",
+14:55:57.277:                 "psycho_aq": false,
+14:55:57.277:                 "rate_control": "CBR",
+14:55:57.277:                 "tune": "hq"
+14:55:57.277:             },
+14:55:57.277:             "type": "jim_nvenc",
+14:55:57.277:             "width": 1280
+14:55:57.277:         },
+14:55:57.277:         {
+14:55:57.277:             "bitrate_interpolation_points": [
+14:55:57.277:                 0,
+14:55:57.277:                 500,
+14:55:57.277:                 500,
+14:55:57.277:                 500
+14:55:57.277:             ],
+14:55:57.277:             "framerate": {
+14:55:57.277:                 "denominator": 1,
+14:55:57.277:                 "numerator": 30
+14:55:57.277:             },
+14:55:57.277:             "gpu_scale_type": "OBS_SCALE_BILINEAR",
+14:55:57.277:             "height": 360,
+14:55:57.277:             "settings": {
+14:55:57.277:                 "bf": 3,
+14:55:57.277:                 "bitrate": 500,
+14:55:57.277:                 "keyint_sec": 2,
+14:55:57.277:                 "lookahead": false,
+14:55:57.277:                 "preset2": "p5",
+14:55:57.277:                 "profile": "main",
+14:55:57.277:                 "psycho_aq": false,
+14:55:57.277:                 "rate_control": "CBR",
+14:55:57.277:                 "tune": "hq"
+14:55:57.277:             },
+14:55:57.277:             "type": "jim_nvenc",
+14:55:57.277:             "width": 640
+14:55:57.277:         }
+14:55:57.277:     ],
+14:55:57.277:     "ingest_endpoints": [
+14:55:57.277:         {
+14:55:57.277:             "authentication": "CENSORED",
+14:55:57.277:             "protocol": "RTMP",
+14:55:57.277:             "url_template": "rtmp://ord03.contribute.live-video.net/app/{stream_key}"
+14:55:57.277:         },
+14:55:57.277:         {
+14:55:57.277:             "authentication": "CENSORED",
+14:55:57.277:             "protocol": "RTMPS",
+14:55:57.277:             "url_template": "rtmps://ord03.contribute.live-video.net/app/{stream_key}"
+14:55:57.277:         }
+14:55:57.277:     ],
+14:55:57.277:     "meta": {
+14:55:57.277:         "config_id": "d45d41f1-b64f-4adf-93f8-15a2ac93f9fc",
+14:55:57.277:         "schema_version": "2024-06-04",
+14:55:57.277:         "service": "IVS"
+14:55:57.277:     }
+14:55:57.277: }
+14:55:57.277: Enhanced broadcasting config_id: 'd45d41f1-b64f-4adf-93f8-15a2ac93f9fc'
+14:55:57.278: Setting frame rate divisor to 2 for encoder 2
+14:55:57.278: Using stream key supplied by autoconfig
+14:55:57.278: Using custom RTMP URL: 'rtmps://ord03.contribute.live-video.net/app'
+14:55:57.316: [obs-nvenc: 'multitrack video video encoder 0'] settings:
+14:55:57.316: 	codec:        H264
+14:55:57.316: 	rate_control: CBR
+14:55:57.316: 	bitrate:      6000
+14:55:57.316: 	cqp:          20
+14:55:57.316: 	keyint:       120
+14:55:57.316: 	preset:       p6
+14:55:57.316: 	tuning:       hq
+14:55:57.316: 	multipass:    qres
+14:55:57.316: 	profile:      high
+14:55:57.316: 	width:        1664
+14:55:57.316: 	height:       936
+14:55:57.316: 	b-frames:     3
+14:55:57.316: 	lookahead:    true
+14:55:57.316: 	psycho_aq:    true
+14:55:57.316: 
+14:55:57.404: NV12 texture support enabled
+14:55:57.404: P010 texture support not available
+14:55:57.406: [obs-nvenc] GPU scaling enabled
+14:55:57.440: [obs-nvenc: 'multitrack video video encoder 1'] settings:
+14:55:57.440: 	codec:        H264
+14:55:57.440: 	rate_control: CBR
+14:55:57.440: 	bitrate:      2500
+14:55:57.440: 	cqp:          20
+14:55:57.440: 	keyint:       120
+14:55:57.440: 	preset:       p5
+14:55:57.440: 	tuning:       hq
+14:55:57.440: 	multipass:    qres
+14:55:57.440: 	profile:      high
+14:55:57.440: 	width:        1280
+14:55:57.440: 	height:       720
+14:55:57.440: 	b-frames:     3
+14:55:57.440: 	lookahead:    false
+14:55:57.440: 	psycho_aq:    false
+14:55:57.440: 
+14:55:57.516: NV12 texture support enabled
+14:55:57.516: P010 texture support not available
+14:55:57.517: [obs-nvenc] GPU scaling enabled
+14:55:57.552: [obs-nvenc: 'multitrack video video encoder 2'] settings:
+14:55:57.552: 	codec:        H264
+14:55:57.552: 	rate_control: CBR
+14:55:57.552: 	bitrate:      500
+14:55:57.552: 	cqp:          20
+14:55:57.552: 	keyint:       60
+14:55:57.552: 	preset:       p5
+14:55:57.552: 	tuning:       hq
+14:55:57.552: 	multipass:    qres
+14:55:57.552: 	profile:      main
+14:55:57.552: 	width:        640
+14:55:57.552: 	height:       360
+14:55:57.552: 	b-frames:     3
+14:55:57.552: 	lookahead:    false
+14:55:57.552: 	psycho_aq:    false
+14:55:57.552: 
+14:55:57.618: ---------------------------------
+14:55:57.618: [FFmpeg aac encoder: 'multitrack video live audio 0'] bitrate: 160, channels: 2, channel_layout: stereo
+14:55:57.618: 
+14:55:57.620: [rtmp stream: 'rtmp multitrack video'] Connecting to RTMP URL rtmps://ord03.contribute.live-video.net/app...
+14:55:57.645: [rtmp stream: 'rtmp multitrack video'] Interface: Realtek Gaming GbE Family Controller (ethernet, 1000↓/1000↑ mbps)
+14:55:58.603: [rtmp stream: 'rtmp multitrack video'] Connection to rtmps://ord03.contribute.live-video.net/app (99.181.97.22) successful
+14:55:58.604: [rtmp stream: 'rtmp multitrack video'] Socket send buffer is 65536 bytes
+14:55:58.615: ==== Streaming Start ===============================================
+14:56:03.671:   OpenType support missing for "Open Sans", script 11
+14:56:03.673:   OpenType support missing for "Arial", script 11
+14:56:03.674:   OpenType support missing for "Tahoma", script 11
+14:56:03.675:   OpenType support missing for "MS UI Gothic", script 11
+14:56:03.675:   OpenType support missing for "SimSun", script 11
+14:56:03.676:   OpenType support missing for "Segoe UI Emoji", script 11
+14:56:03.677:   OpenType support missing for "Segoe UI Symbol", script 11
+14:56:03.681:   OpenType support missing for "Open Sans", script 12
+14:56:03.682:   OpenType support missing for "Arial", script 12
+14:56:03.682:   OpenType support missing for "Tahoma", script 12
+14:56:03.682:   OpenType support missing for "MS UI Gothic", script 12
+14:56:03.683:   OpenType support missing for "SimSun", script 12
+14:56:03.683:   OpenType support missing for "Segoe UI Emoji", script 12
+14:56:03.683:   OpenType support missing for "Segoe UI Symbol", script 12
+14:56:03.684:   OpenType support missing for "Open Sans", script 16
+14:56:03.684:   OpenType support missing for "Arial", script 16
+14:56:03.685:   OpenType support missing for "Tahoma", script 16
+14:56:03.685:   OpenType support missing for "MS UI Gothic", script 16
+14:56:03.685:   OpenType support missing for "SimSun", script 16
+14:56:03.685:   OpenType support missing for "Segoe UI Emoji", script 16
+14:56:03.686:   OpenType support missing for "Segoe UI Symbol", script 16
+14:56:03.687:   OpenType support missing for "Open Sans", script 20
+14:56:03.687:   OpenType support missing for "Arial", script 20
+14:56:03.688:   OpenType support missing for "Tahoma", script 20
+14:56:03.688:   OpenType support missing for "MS UI Gothic", script 20
+14:56:03.688:   OpenType support missing for "SimSun", script 20
+14:56:03.689:   OpenType support missing for "Segoe UI Emoji", script 20
+14:56:03.689:   OpenType support missing for "Segoe UI Symbol", script 20
+14:56:51.190: User switched to scene 'IN-GAME'
+16:21:43.966: User switched to scene 'Just chatting'
+16:24:06.744: User switched to scene 'IN-GAME'
+16:27:50.174: User switched to scene 'Just chatting'
+16:35:07.468: User switched to scene 'IN-GAME'
+16:39:21.176: User switched to scene 'Just chatting'
+16:42:57.929: [rtmp stream: 'rtmp multitrack video'] User stopped the stream
+16:42:57.930: [rtmp stream: 'rtmp multitrack video'] Socket send buffer is 1048576 bytes
+16:42:57.930: Output 'rtmp multitrack video': stopping
+16:42:57.930: Output 'rtmp multitrack video': Total frames output: 962692 (962807 attempted)
+16:42:57.930: Output 'rtmp multitrack video': Total drawn frames: 385175 (385219 attempted)
+16:42:57.930: Output 'rtmp multitrack video': Number of lagged frames due to rendering lag/stalls: 44 (0.0%)
+16:42:57.930: Output 'rtmp multitrack video': Number of dropped frames due to insufficient bandwidth/connection stalls: 115 (0.0%)
+16:42:57.930: [rtmp stream: 'rtmp multitrack video'] Freeing 2 remaining packets
+16:42:57.930: Video stopped, number of skipped frames due to encoding lag: 44/385158 (0.0%)
+16:42:57.934: ==== Streaming Stop ================================================
+16:42:58.168: Video stopped, number of skipped frames due to encoding lag: 44/385172 (0.0%)
+16:42:58.225: Video stopped, number of skipped frames due to encoding lag: 44/385175 (0.0%)
+16:42:58.274: warning: 2 frames left in the queue on closing
+16:43:01.799: Settings changed (stream 1)
+16:43:01.799: ------------------------------------------------
+16:43:02.839: User is ignoring service bitrate limits.
+16:43:02.879: [obs-nvenc: 'advanced_video_stream'] settings:
+16:43:02.879: 	codec:        H264
+16:43:02.879: 	rate_control: CBR
+16:43:02.879: 	bitrate:      6000
+16:43:02.879: 	cqp:          20
+16:43:02.879: 	keyint:       120
+16:43:02.879: 	preset:       p7
+16:43:02.879: 	tuning:       ll
+16:43:02.879: 	multipass:    qres
+16:43:02.879: 	profile:      high
+16:43:02.879: 	width:        1664
+16:43:02.879: 	height:       936
+16:43:02.879: 	b-frames:     2
+16:43:02.879: 	lookahead:    false
+16:43:02.879: 	psycho_aq:    true
+16:43:02.879: 
+16:43:02.951: ---------------------------------
+16:43:02.951: [FFmpeg aac encoder: 'adv_stream_audio'] bitrate: 160, channels: 2, channel_layout: stereo
+16:43:02.951: 
+16:43:02.952: [rtmp stream: 'adv_stream'] Connecting to RTMP URL rtmps://ord03.contribute.live-video.net/app...
+16:43:02.983: [rtmp stream: 'adv_stream'] Interface: Realtek Gaming GbE Family Controller (ethernet, 1000↓/1000↑ mbps)
+16:43:03.781: [rtmp stream: 'adv_stream'] Connection to rtmps://ord03.contribute.live-video.net/app (99.181.96.51) successful
+16:43:03.782: [rtmp stream: 'adv_stream'] Socket send buffer is 65536 bytes
+16:43:03.788: ==== Streaming Start ===============================================
+16:45:00.895: User switched to scene 'IN-GAME'
+16:45:23.767: User switched to scene 'Just chatting'
+16:47:00.895: User switched to scene 'IN-GAME'
+16:55:38.373: User switched to scene 'Just chatting'
+17:05:14.180: [rtmp stream: 'adv_stream'] User stopped the stream
+17:05:14.180: [rtmp stream: 'adv_stream'] Socket send buffer is 1048576 bytes
+17:05:14.180: Output 'adv_stream': stopping
+17:05:14.180: Output 'adv_stream': Total frames output: 79811
+17:05:14.180: Output 'adv_stream': Total drawn frames: 79872 (79874 attempted)
+17:05:14.181: Output 'adv_stream': Number of lagged frames due to rendering lag/stalls: 2 (0.0%)
+17:05:14.181: Video stopped, number of skipped frames due to encoding lag: 2/79822 (0.0%)
+17:05:14.184: ==== Streaming Stop ================================================
+17:05:14.256: warning: 2 frames left in the queue on closing
